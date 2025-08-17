@@ -1,5 +1,8 @@
 # Ignore Autoscout data and models
-data/
+data/*
 Archive/
-catboost_info/
-models/
+catboost_info/*
+models/*
+!data/.gitkeep
+!catboost_info/.gitkeep
+!models/.gitkeep
