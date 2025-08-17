@@ -1,0 +1,5 @@
+# Ignore Autoscout data and models
+data/
+Archive/
+catboost_info/
+models/
